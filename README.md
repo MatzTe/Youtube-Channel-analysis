@@ -12,8 +12,8 @@ En este repositorio encontrará cuatro archivos:
 
 1. El proyecto completo escrito en español
 2. El proyecto completo escrito en inglés
-3. Un archivo .csv que contiene la información obtenida de la API de Youtube
-4. Un archivo .csv con la información obtenida a partir de la implementación de la api de chat GPT.
+3. Un archivo .csv que contiene la información obtenida de la API de Youtube (data.csv)
+4. Un archivo .csv con la información obtenida a partir de la implementación de la api de chat GPT (area_afinidad.csv).
 
 1 y 2 son exactamente el mismo proyecto, solo que uno está escrito en inglés y otro en español. El proyecto original fue escrito en español, por lo que en ambos archivos los códigos y comentarios de códigos están en español. Las aclaraciones, indicaciones, introducciones, conclusiones y el índice, se encuentran traducidas al inglés en el correspondiente archivo.
 
@@ -39,8 +39,8 @@ In this repository, you will find four files:
 
 1. The complete project written in Spanish.
 2. The complete project written in English.
-3. A .csv file containing information obtained from the YouTube API.
-4. A .csv file with information obtained from the implementation of the Chat GPT API.
+3. A .csv file containing information obtained from the YouTube API (data.csv).
+4. A .csv file with information obtained from the implementation of the Chat GPT API (area_afinidad.csv).
 
 
 Files 1 and 2 are exactly the same project, with one written in English and the other in Spanish. The original project was written in Spanish, so both files contain code and code comments in Spanish. The clarifications, instructions, introductions, conclusions, and index are translated into English in the corresponding file.
