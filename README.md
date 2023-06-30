@@ -1,6 +1,6 @@
 # Youtube-Channel-analysis
 En este proyecto analizaremos el canal "El método Rebord".
-
+In this project, we will analyze the YouTube channel "El método Rebord"
 Key words: pandas, Youtube API, graphics, Chat GPT, AWS rds postgre, SQL.
 
 -------------------------------------------------------------------------------------------
